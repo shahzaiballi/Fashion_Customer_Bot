@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+
+# Model and logs
+models/
+logs/
+
+# Dataset and outputs
+data/processed/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
